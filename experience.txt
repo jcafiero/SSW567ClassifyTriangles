@@ -1,3 +1,5 @@
+Jennifer Cafiero
+
 What challenges did you encounter with this assignment, if any?
 -One challenge I encountered was trying to decide how to sufficiently test this program. It was a little confusing starting from code that we were told was buggy, so it took some time to find this issue. But then also I had to take extra time to make sure I had tested the code to make sure that I fixed the issues.
 What did you think about the requirements specification for this assignment?
